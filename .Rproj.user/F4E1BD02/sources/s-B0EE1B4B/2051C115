@@ -1,0 +1,28 @@
+{
+    "id": "2051C115",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1622560380482.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "46738119ed9d4a64aa2e0af4730704d4",
+        "name": "Canada_var",
+        "title": "Canada_var",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8030879312480528756,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1622560380482,
+    "read_only": false,
+    "read_only_alternatives": []
+}
